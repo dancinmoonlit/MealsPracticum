@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\MealsPracticum\MealsPracticum\bin\Debug\MealsPracticum.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\MealsPracticum\MealsPracticum\obj\Debug\MealsPracticum.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\MealsPracticum\MealsPracticum\bin\Debug\MealsPracticum.exe
+c:\users\admin\documents\visual studio 2012\Projects\MealsPracticum\MealsPracticum\bin\Debug\MealsPracticum.pdb
+c:\users\admin\documents\visual studio 2012\Projects\MealsPracticum\MealsPracticum\obj\Debug\MealsPracticum.exe
+c:\users\admin\documents\visual studio 2012\Projects\MealsPracticum\MealsPracticum\obj\Debug\MealsPracticum.pdb
